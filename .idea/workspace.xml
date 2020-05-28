@@ -34,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pandasLibrary">
+  <component name="RunManager" selected="Python.numpy">
     <configuration name="numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_libraries" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,10 +121,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.numpy" />
         <item itemvalue="Python.pandasLibrary" />
         <item itemvalue="Python.pandas" />
         <item itemvalue="Python.numpylib" />
-        <item itemvalue="Python.numpy" />
       </list>
     </recent_temporary>
   </component>
